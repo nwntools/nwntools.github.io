@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Potms on NWN Tools</title>
-    <link>http://nwntools.github.io/potm/</link>
+    <link>https://nwntools.github.io/potm/</link>
     <description>Recent content in Potms on NWN Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 May 2020 17:37:19 -0500</lastBuildDate>
     
-	<atom:link href="http://nwntools.github.io/potm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nwntools.github.io/potm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dragoncode</title>
-      <link>http://nwntools.github.io/potm/dragoncode/</link>
+      <link>https://nwntools.github.io/potm/dragoncode/</link>
       <pubDate>Fri, 08 May 2020 17:37:19 -0500</pubDate>
       
-      <guid>http://nwntools.github.io/potm/dragoncode/</guid>
+      <guid>https://nwntools.github.io/potm/dragoncode/</guid>
       <description></description>
     </item>
     
